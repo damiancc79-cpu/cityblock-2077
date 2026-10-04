@@ -43,3 +43,15 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+*.tar.gz
